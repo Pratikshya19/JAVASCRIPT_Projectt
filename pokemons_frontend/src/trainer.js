@@ -1,4 +1,4 @@
-// const trainerURL = "http://localhost:3000/trainer"
+const trainerURL = "http://localhost:3000/trainer"
 const POKEMONS_URL = "http://localhost:3000/pokemon"
 
 fetch(trainerURL)
